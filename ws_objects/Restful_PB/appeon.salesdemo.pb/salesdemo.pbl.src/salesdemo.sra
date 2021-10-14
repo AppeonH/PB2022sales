@@ -28,8 +28,8 @@ end variables
 global type salesdemo from application
 string appname = "salesdemo"
 string displayname = "SalesDemo"
-string themepath = "C:\Program Files (x86)\Appeon\PowerBuilder 21.0\IDE\theme"
-string themename = "Flat Design Blue"
+string themepath = "C:\Program Files\Appeon\PowerBuilder 21.0\IDE\theme"
+string themename = "Do Not Use Themes"
 boolean nativepdfvalid = false
 boolean nativepdfincludecustomfont = false
 string nativepdfappname = ""
